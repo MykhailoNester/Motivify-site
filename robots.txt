@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mykhailonester.github.io/Motivify-site/sitemap.xml
