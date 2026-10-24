@@ -33,4 +33,4 @@ sips -z 630 1200 og-2x.png --out assets/img/og.png
 
 ## Contact
 
-The contact address is the placeholder `[SUPPORT EMAIL]` until a support address exists.
+The contact address is the app's own support address, written with its `@` as the HTML entity `&#64;` in every page so simple scrapers miss it; keep it that way when editing. Never put a personal address in this public repo.
